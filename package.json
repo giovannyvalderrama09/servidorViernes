@@ -1,0 +1,22 @@
+{
+  "name": "apihotelgio",
+  "version": "1.0.0",
+  "description": "api rest hotel Gio",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "RESET",
+    "CESDE"
+  ],
+  "author": "Gio",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2"
+  }
+}
